@@ -87,3 +87,23 @@ function main() {
 main();
 
 // main2(1, size, 1)
+
+
+WORKER THREADS =>
+  
+Thread Execution Completed:  1   processed values:  9999998    time:    2.896 secs
+Thread Execution Completed:  2   processed values:  9999998    time:    4.796 secs
+Thread Execution Completed:  3   processed values:  9999998    time:    5.811 secs
+Thread Execution Completed:  4   processed values:  9999998    time:    6.616 secs
+Thread Execution Completed:  5   processed values:  9999998    time:    6.943 secs
+Thread Execution Completed:  6   processed values:  9999998    time:    7.457 secs
+Thread Execution Completed:  7   processed values:  9999998    time:    7.853 secs
+Thread Execution Completed:  8   processed values:  9999998    time:    8.27 secs
+Thread Execution Completed:  9   processed values:  9999998    time:    8.697 secs
+Thread Execution Completed:  10   processed values:  9999998    time:    8.762 secs
+total primes =  5761455   total time taken =  8.807secs
+
+
+MAIN THREAD =>
+Main Thread Execution Completed:  1   processed values:  99999989    time:    40.978 secs
+total primes = 5761455   total time taken =  40.978 secs
